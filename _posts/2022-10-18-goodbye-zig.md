@@ -26,6 +26,6 @@ But since Zig doesn't have a solid technical foundation, promoting the language 
 
 and people who point out Zig's shortcomings:
 
-<img width="768" alt="Twitter" src="https://user-images.githubusercontent.com/116085775/196540694-ff2a0abc-61c7-48d1-936e-5e8259a89134.png">
+<img width="768" alt="Twitter" src="https://user-images.githubusercontent.com/116085775/196545451-51be0cc0-c8a9-4806-8788-65b010f63ead.png">
 
 Developers would love to see a language replacing the half-a-century old C. Unfortunately, I doubt that will be Zig.
