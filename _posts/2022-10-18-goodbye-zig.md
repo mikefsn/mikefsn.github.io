@@ -9,7 +9,6 @@ Zig has been marketed as a "better C". Unfortunately, the language didn't addres
 However, even though Zig didn't bring anything new to the table, some people might still prefer it because they feel more productive with it. The reason why we haven't seen Zig in companies' codebases and only in people's personal projects is because companies are reluctant to commit to a high-risk pre-alpha language.
 
 And it doesn't look like Zig is going to reach version 1.0 anytime soon. Basic features like:
-- [https://github.com/ziglang/zig/issues/910](https://github.com/ziglang/zig/issues/910)
 - [https://github.com/ziglang/zig/issues/943](https://github.com/ziglang/zig/issues/943)
 
 have been 'in development' for the last 5-7 years even though the Zig team has been working full-time on the language since 2018.
