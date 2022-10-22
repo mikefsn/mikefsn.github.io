@@ -1,5 +1,5 @@
 ---
-title: 'Practices used by the team behind the "Voldemort" programming language'
+title: "Practices used by the team behind the \"Voldemort\" programming language"
 ---
 
 Ever wondered why posts praising the Zig programming language reach the top of Reddit and Hacker News? And why it's hard to find comments raising criticism? Here I highlight how the Zig core team pushes a narrative.
