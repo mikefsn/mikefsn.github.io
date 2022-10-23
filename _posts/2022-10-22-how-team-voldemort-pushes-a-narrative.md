@@ -2,23 +2,29 @@
 title: "How team \"Voldemort\" pushes a narrative"
 ---
 
-Ever wondered why posts praising the Zig programming language reach the top of Reddit and Hacker News? And why it's hard to find comments raising criticism? Here I highlight how the Zig core team pushes a narrative.
+The Zig core team tracks discussions about Zig via RSS. Example feeds they use on Reddit:
 
-The Zig team tracks discussions involving Zig via RSS. On Reddit some of the RSS feeds they use are:
-
-- [https://www.reddit.com/r/programming/search.rss?q=zig&sort=new&restrict_sr=on](https://www.reddit.com/r/programming/search.rss?q=zig&sort=new&restrict_sr=on)
-- [https://www.reddit.com/r/ProgrammingLanguages/search.rss?q=zig&sort=new&restrict_sr=on](https://www.reddit.com/r/ProgrammingLanguages/search.rss?q=zig&sort=new&restrict_sr=on)
+- https://www.reddit.com/r/programming/new.rss
+- https://www.reddit.com/r/programming/comments.rss
 
 On Hacker News the RSS feeds they use are:
 
-- [https://hnrss.org/newest?q=zig](https://hnrss.org/newest?q=zig)
-- [https://hnrss.org/newcomments?q=zig](https://hnrss.org/newcomments?q=zig)
+- https://hnrss.org/newest
+- https://hnrss.org/newcomments
 
-When there is a discussion of interest they start tracking its activity via RSS again. Examples:
+This lets them brigade discussions and push a narrative (e.g. "Zig is faster than C", "Zig is more memory-safe than Rust"):
 
-- [https://www.reddit.com/r/programming/comments/y7ja2j/goodbye_zig.rss](https://www.reddit.com/r/programming/comments/y7ja2j/goodbye_zig.rss)
-- [https://hnrss.org/item?id=32794360](https://hnrss.org/item?id=32794360)
+- https://news.ycombinator.com/item?id=33103267
 
-This lets them react quickly. Pro-Zig submissions get upvoted, criticisms get downvoted.
+This also lets them censor opinions they disagree with:
+
+- https://www.reddit.com/r/programming/comments/y7ja2j/goodbye_zig/
+
+Not only do they use RSS to push a narrative, they also use it to stalk and harass users. RSS feeds of my accounts:
+
+- https://www.reddit.com/user/mikefsn.rss
+- https://hnrss.org/user?id=mikefsn
+
+Unfortunately since the RSS feeds are public, I'm afraid they're going to keep abusing them.
 
 [(_previous post_)](https://mikefsn.github.io/2022/10/18/goodbye-zig.html)
