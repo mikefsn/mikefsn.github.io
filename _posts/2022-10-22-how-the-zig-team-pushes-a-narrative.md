@@ -1,8 +1,8 @@
 ---
-title: "How team \"Voldemort\" pushes a narrative"
+title: "How the Zig core team pushes a narrative"
 ---
 
-The Zig core team tracks discussions about Zig via RSS. Example feeds they use on Reddit:
+The Zig team tracks discussions about Zig via RSS. Example feeds they use on Reddit:
 
 - [https://www.reddit.com/r/programming/new.rss](https://www.reddit.com/r/programming/new.rss)
 - [https://www.reddit.com/r/programming/comments.rss](https://www.reddit.com/r/programming/comments.rss)
