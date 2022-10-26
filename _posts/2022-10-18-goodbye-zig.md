@@ -28,3 +28,5 @@ and people who point out Zig's shortcomings:
 <img width="768" alt="Twitter" src="https://user-images.githubusercontent.com/116085775/196545451-51be0cc0-c8a9-4806-8788-65b010f63ead.png">
 
 Developers would love to see a language replacing the half-a-century old C. Unfortunately, I doubt that will be Zig.
+
+[(_next post_)](https://mikefsn.github.io/2022/10/22/how-the-zig-team-pushes-a-narrative.html)
