@@ -29,4 +29,4 @@ and people who point out Zig's shortcomings:
 
 Developers would love to see a language replacing the half-a-century old C. Unfortunately, I doubt that will be Zig.
 
-[(_next post_)](https://mikefsn.github.io/2022/10/22/how-the-zig-team-pushes-a-narrative.html)
+[_next post_](https://mikefsn.github.io/2022/10/22/how-the-zig-team-pushes-a-narrative.html)
