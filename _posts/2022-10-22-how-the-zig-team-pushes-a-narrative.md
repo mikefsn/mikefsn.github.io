@@ -16,9 +16,9 @@ This lets them brigade discussions and push a narrative (e.g. "Zig is faster tha
 
 - [https://news.ycombinator.com/item?id=33103267](https://news.ycombinator.com/item?id=33103267)
 
-This also lets them censor opinions they disagree with:
+This also lets them suppress opinions they disapprove of:
 
-- [https://www.reddit.com/r/programming/comments/y7ja2j/goodbye_zig/](https://www.reddit.com/r/programming/comments/y7ja2j/goodbye_zig/)
+<img width="607" alt="Reddit" src="https://user-images.githubusercontent.com/116085775/198052171-6420e28c-d7b1-483c-89d6-225c2f94c24e.png">
 
 Not only do they use RSS to push a narrative, they also use it to stalk and harass users. RSS feeds of my accounts:
 
