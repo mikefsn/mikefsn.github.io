@@ -21,7 +21,7 @@ Because there is a financial incentive to promote the language - the Zig Softwar
 
 But since Zig doesn't have a solid technical foundation, promoting the language is not enough. The Zig team is also attacking competing languages:
 
-<img width="947" alt="Hacker news" src="https://user-images.githubusercontent.com/116085775/196540629-71176776-de8a-41db-9dfb-ea3fc8dff8ff.png">
+<img width="954" alt="Hacker News" src="https://user-images.githubusercontent.com/116085775/198046023-dc76b2e1-337c-4765-ba5f-99558828e08d.png">
 
 and people who point out Zig's shortcomings:
 
