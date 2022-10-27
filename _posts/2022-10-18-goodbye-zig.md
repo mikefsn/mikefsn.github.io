@@ -8,10 +8,9 @@ Zig has been marketed as a "better C". Unfortunately, the language didn't addres
 
 However, even though Zig didn't bring anything new to the table, some people might still prefer it because they feel more productive with it. The reason why we haven't seen Zig in companies' codebases and only in people's personal projects is because companies are reluctant to commit to a high-risk pre-alpha language.
 
-And it doesn't look like Zig is going to reach version 1.0 anytime soon. Basic features like:
-- [https://github.com/ziglang/zig/issues/943](https://github.com/ziglang/zig/issues/943)
+And it doesn't look like Zig is going to reach version 1.0 anytime soon - the Zig compiler is still "not stable enough" to parse tabs:
 
-have been 'in development' for the last 5-7 years even though the Zig team has been working full-time on the language since 2018.
+- [https://github.com/ziglang/zig/wiki/FAQ#why-does-zig-force-me-to-use-spaces-instead-of-tabs](https://github.com/ziglang/zig/wiki/FAQ/4003c860ff980a854346976bddbaea55f1b1a789#why-does-zig-force-me-to-use-spaces-instead-of-tabs)
 
 Then why do we keep seeing a pre-alpha language showing up on the Hacker News frontpage every couple of weeks?
 
