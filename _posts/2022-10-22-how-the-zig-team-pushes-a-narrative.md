@@ -1,5 +1,5 @@
 ---
-title: "How the Zig core team pushes a narrative"
+title: "How the Zig team pushes a narrative"
 ---
 
 The Zig team tracks discussions about Zig via RSS. Example feeds they use on Reddit:
