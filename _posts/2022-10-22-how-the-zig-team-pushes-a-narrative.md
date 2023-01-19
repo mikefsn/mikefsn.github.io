@@ -26,5 +26,3 @@ Not only do they use RSS to push a narrative, they also use it to stalk and hara
 - [https://hnrss.org/user?id=mikefsn](https://hnrss.org/user?id=mikefsn)
 
 Unfortunately since the RSS feeds are public, I'm afraid they're going to keep abusing them.
-
-[_Previous post_](https://mikefsn.github.io/2022/10/18/goodbye-zig.html)
