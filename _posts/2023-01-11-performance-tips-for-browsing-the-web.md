@@ -2,6 +2,10 @@
 title: "Performance tips for browsing the web"
 ---
 
+### Browse the web as a guest
+
+When possible, browse the web as a guest. Websites load faster for signed out users.
+
 ### Block ads + cookie prompts
 
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) not only lets you block ads, but also cookie prompts. To enable blocking of cookie prompts, go to the extension's options > Filter lists and tick these boxes under Annoyances:
@@ -50,5 +54,3 @@ To enable it again, run this command:
 ```
 defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool YES
 ```
-
-[_Previous post_](https://mikefsn.github.io/2022/10/22/how-the-zig-team-pushes-a-narrative.html)
