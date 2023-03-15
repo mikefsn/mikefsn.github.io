@@ -37,6 +37,10 @@ For New Tab Page, you can use a minimalistic extension like this one:
 
 [https://github.com/mikefsn/new-tab-page](https://github.com/mikefsn/new-tab-page)
 
+### Open Spotify links in the desktop app
+
+[Open in Spotify desktop client](https://chrome.google.com/webstore/detail/open-in-spotify-desktop-c/okkdbmdhpgmajopdpmflkldkemcldnjd) lets you open Spotify links in the desktop app instead of separate web instances.
+
 ### Keep Chrome running as a background process (on Windows)
 
 [Lightning Reopen](https://chrome.google.com/webstore/detail/lightning-reopen/ahphokgmcecbjeipkfkamcdmemghkaph) lets Chrome run as a background process on Windows. This makes the browser launch instantaneously.
