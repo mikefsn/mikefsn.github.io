@@ -14,7 +14,7 @@ And it doesn't look like Zig is going to reach version 1.0 anytime soon - the Zi
 
 Then why do we keep seeing a pre-alpha language showing up on the Hacker News frontpage every couple of weeks?
 
-Because there is a financial incentive to promote the language. The financial reports of the Zig Software Foundation:
+Because the Zig team relies on donations. The more exposure of the language leads to more donations:
 
 <img width="690" alt="Finances" src="https://user-images.githubusercontent.com/116085775/196540578-f2114e5b-0188-4ea1-a869-a2a16ce4659f.png">
 
