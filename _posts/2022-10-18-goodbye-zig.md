@@ -2,7 +2,7 @@
 title: "Goodbye, Zig"
 ---
 
-Here I explain why after 6 years the Zig programming language hasn't caught on and why I believe it doesn't have a bright future. I also explain why, despite of this, Zig shows up on the front page of Hacker News every couple of weeks.
+Here I explain why after 6 years the Zig programming language still hasn't caught on and why I believe it doesn't have a bright future. I also explain why, despite of this, Zig shows up on the front page of Hacker News every couple of weeks.
 
 Zig has been marketed as a "better C". Unfortunately, the language didn't address the issues associated with C (memory safety, concurrency). Nor it did introduce new ideas. Arguably the only feature that makes Zig stand out is its 'comptime' feature which languages like D have had for the last 16 years.
 
